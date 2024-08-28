@@ -4,7 +4,7 @@ This is a simple bot script that uses Puppeteer to automate typing on [Monkeytyp
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/anshulnegii/monkey-type-script.git`
+1. Clone the repository: `git clone https://github.com/aditi09raj/monkey-type-script.git`
 2. Install dependencies: 
 ```
 npm install puppeteer
