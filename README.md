@@ -24,6 +24,3 @@ This script is intended for educational and experimental purposes only. It shoul
 - Node.js
 - Puppeteer
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
